@@ -3,7 +3,7 @@
   "displayName": "LinkedIn AI Reply",
   "version": "0.0.1",
   "description": "Plasmo tailwind ts react chrome extension boilerplate",
-  "author": "GorvGoyl",
+  "author": "Ritik Jaiswal",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
